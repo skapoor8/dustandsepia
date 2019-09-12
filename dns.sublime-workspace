@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"questio",
+				"question_id"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"dateti",
+				"datetime"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"que",
+				"question_text"
+			],
+			[
+				"bear",
+				"bear_moved"
+			],
+			[
+				"for",
+				"for_func"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"new",
+				"new_new_numbers"
+			],
+			[
+				"while",
+				"while_func"
+			],
+			[
+				"print_",
+				"print_last_word"
+			],
+			[
+				"prit",
+				"print_first_word"
+			],
+			[
+				"print",
+				"print_last_word"
+			],
+			[
+				"br",
+				"break_words"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"cu",
+				"current_file"
+			],
+			[
+				"cur",
+				"current_line"
+			],
+			[
+				"curre",
+				"current_line"
+			],
+			[
+				"print_a",
+				"print_a_line"
+			],
+			[
+				"pritn",
+				"print_all"
+			],
+			[
+				"amo",
+				"amount_of_crackers"
+			],
+			[
+				"amoun",
+				"amount_of_cheese"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amou",
+				"amount_of_cheese"
+			],
+			[
+				"chesse",
+				"cheese_and_crackers"
+			],
+			[
+				"boxes",
+				"boxes_of_crackers"
+			],
+			[
+				"exis",
+				"exists"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"tex",
+				"text_again"
+			],
+			[
+				"f",
+				"file_again"
+			],
+			[
+				"liv",
+				"lives"
+			],
+			[
+				"coc",
+				"cocktail_name"
+			],
+			[
+				"tab",
+				"tabby_cat"
+			],
+			[
+				"fo",
+				"formatter"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"joke",
+				"joke_evaluation"
+			],
+			[
+				"ox",
+				"oxford_comma"
+			],
+			[
+				"my",
+				"my_weight"
+			],
+			[
+				"my_h",
+				"my_hair"
+			],
+			[
+				"cars_",
+				"cars_not_driven"
+			],
+			[
+				"ca",
+				"cars_driven"
+			],
+			[
+				"int",
+				"int_list"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"res",
+				"result_ids"
+			],
+			[
+				"result",
+				"result_ids"
+			],
+			[
+				"y",
+				"yoffset"
+			],
+			[
+				"bound",
+				"boundingRect"
+			],
+			[
+				"ta",
+				"target1"
+			],
+			[
+				"input",
+				"inputBox"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"search",
+				"search-box"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/owner/Desktop/Django/dustandsepia"
+	],
+	"file_history":
+	[
+		"/Users/owner/Desktop/Django/poller/requirements.txt",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex35.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex34.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex33.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex32.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/polls/apps.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/manage.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/polls/admin.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/poller_project/urls.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/polls/urls.py",
+		"/Users/owner/Desktop/Django/poller/poller-django-project/poller_project/settings.py",
+		"/Users/owner/Desktop/Django/django_official_tutorial/poller/poller/settings.py",
+		"/Users/owner/Desktop/Django/django_official_tutorial/poller/poller/urls.py",
+		"/Users/owner/Desktop/Django/django_official_tutorial/poller/poller_app/urls.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex31.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex30.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex29.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex26.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex25.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex24.py",
+		"/Users/owner/Desktop/C++/Programs/Foundations/Variadics/variadics_examples.cpp",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex21.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex20.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex19.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex18.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex17.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex20.txt",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex17.txt",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex16.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex15.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex14.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex16.txt",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex15_sample.txt",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex13.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex12.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex11.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex10.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex9.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex8.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex7.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex6.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex5.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex4.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex3.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex1.py",
+		"/Users/owner/Desktop/Python/Learn Python the Hard Way Exercises/ex2.py",
+		"/Users/owner/Downloads/Canvas (1).java",
+		"/Users/owner/Downloads/Siddharth.Kapoor@tufts.edu.pst",
+		"/Users/owner/Desktop/Javascript/3 functions/functions.js",
+		"/Users/owner/Desktop/Javascript/3 functions/functions.html",
+		"/Users/owner/Desktop/Javascript/score_compare/score_compare.html",
+		"/Users/owner/Desktop/Javascript/tutorial/variables.js",
+		"/Users/owner/Desktop/Javascript/tutorial/Hello_World.html",
+		"/Users/owner/Desktop/Javascript/Hello_World.html",
+		"/Users/owner/Desktop/simpleServer/custom_search.html",
+		"/Users/owner/Desktop/simpleServer/usewebgazer2.html",
+		"/Users/owner/Desktop/simpleServer/mystyles.css",
+		"/Users/owner/Desktop/mystyles.css",
+		"/Users/owner/Desktop/custom_search.html",
+		"/Users/owner/Desktop/simpleServer/gaze_detector.html",
+		"/Users/owner/Desktop/simpleServer/mouseover.html",
+		"/Users/owner/Desktop/simple_https_server.py",
+		"/Users/owner/Desktop/gaze_detector.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dns.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
